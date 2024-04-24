@@ -10,12 +10,5 @@ This is an interactive study planner and resource aggregator developed using Str
 - **Join Study Groups**: Users can join study groups to collaborate with others.
 - **Motivation Booster**: Users can find motivational content to stay inspired and focused.
 
-## Installation
 
-To run the app locally, follow these steps:
-
-1. Clone this repository:
-
-   ```bash
-   git clone  https://github.com/pingArJun/studygenius.git
    
